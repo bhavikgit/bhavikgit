@@ -1,6 +1,6 @@
 
 
-I am a backend developer, trekker and sports enthusiastic.
+I am a backend developer, trekker and sports enthusiast.
 
 ### Technology Stack 
  <p>
